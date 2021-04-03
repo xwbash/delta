@@ -1,7 +1,7 @@
 # 𝚍𝚎𝚕𝚝𝚊
 Proxy and UserAgent Scrapper from web. </br>
 Thanks for [Sergio](https://github.com/YusufOzmen01)
-## Sites i Used for Scraping
+## Sites I Used For Scraping
 [UserAgent](https://generate-name.net/user-agent),
 [Proxys](https://free-proxy-list.net/https://free-proxy-list.net/)
 ## Installation
