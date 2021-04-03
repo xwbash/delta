@@ -1,4 +1,4 @@
-# Silverback Application
+# 𝚍𝚎𝚕𝚝𝚊
 Proxy and UserAgent Scrapper from web. </br>
 Thanks for [Sergio](https://github.com/YusufOzmen01)
 
